@@ -1,3 +1,3 @@
-# testing
+#first
 
-adding readme file for testing.
+first repository on github.
